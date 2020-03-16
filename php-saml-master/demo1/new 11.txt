@@ -1,0 +1,14 @@
+Question:
+
+1. We have one php/drupal application and need to integrate with NYCID.
+  since there is no DOIIT  suggested lib/tool to exchange saml 2.0 messages for php/drupal
+  if we come up with own lib/tool generated messages, will DOIIT IPD/Connector process?
+  if existing DOIIT Idp/connector does not process messages, will DOIIT support to customize at their end?  
+  
+2. Samples saml 2.0 messages to help DOT team to format accordingly?
+
+https://personal2-dev.onelogin.com
+
+Gcom Call 12:00- 12-15 PM (03/09/2020)
++1 347-509-9013   United States, New York City (Toll) 
+Conference ID: 272 829 249# 
