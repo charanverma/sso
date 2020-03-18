@@ -15,7 +15,7 @@
 			//'NameIDFormat' => 'urn:oasis:names:tc:SAML:2.0:nameid-format:unspecified',
         ),
         'idp' => array (
-            'entityId' => 'https://app.onelogin.com/saml/metadata/5a4765a2-87a5-436d-8a4b-537c58aa394d',
+            'entityId' => 'https://fidm.gigya.com/saml/v2.0/3_DkZigi2v_eW7z-cZt8PAw-cYWQYg2d8VqABUFRZUhhzxNAdwR5brLl_h8Hqbo7Bm',
             'singleSignOnService' => array (
                 'url' => 'https://fidm.us1.gigya.com/saml/v2.0/3_DkZigi2v_eW7z-cZt8PAw-cYWQYg2d8VqABUFRZUhhzxNAdwR5brLl_h8Hqbo7Bm/idp/sso',
             ),
