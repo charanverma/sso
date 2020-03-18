@@ -1,0 +1,5 @@
+entityId: https://dev-nycid-poc.pantheonsite.io/sso/php-saml-master/demo1/metadata.php
+
+assertionConsumerService:  https://dev-nycid-poc.pantheonsite.io/sso/php-saml-master/demo1/index.php?acs
+
+singleLogoutService: https://dev-nycid-poc.pantheonsite.io/sso/php-saml-master/demo1/index.php?sls
